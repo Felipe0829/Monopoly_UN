@@ -2,3 +2,4 @@
 	- Diego Ruiz
 	- Juan Ochoa
 	- Mateo Matijasevick
+	- Felipe Corredor
